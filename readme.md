@@ -1,4 +1,4 @@
-#PHP Challenge:
+# PHP Challenge:
 Create a CLI tool that will accept a url for a website product listing page (PLP), and output a csv like:
 "Product Name",Price
 "Air Jordan 1 Hi OG TS SP",$940.00
@@ -10,9 +10,9 @@ Requirements:
 - The CSV file generated should be output to stdout
 - Bundle your files together (zip, tar, etc) and provide instructions on how to run the cli tool
 
-###Requirements
+### Requirement
 php version => 7.1
-##How To Use:
+## How To Use:
 At root directory of cli application cli tool can be executed with following command
 
 `php scrap.php`
